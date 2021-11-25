@@ -1,0 +1,81 @@
+{
+  "icons": [
+    {
+      "src": "static/icon_512x512.b0a1703a31f816a1079e32144d75d3a5.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "static/icon_384x384.9b673ef8cba4108bd30dc69fce753e93.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "static/icon_256x256.49196ba4f18c738f51b981771a03f136.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "static/icon_192x192.e8283f31e3b6af81967d4c18f6a550b8.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "static/icon_128x128.85499b9ec194c03e14d0d9cb89e0b365.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "static/icon_96x96.5ec9d6f51b2baa68d602984a08409c55.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "static/icon_512x512.f036b845cb9d01434ce28907c50df8f0.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "static/icon_384x384.f655f3b8b3265eedb3bf42d28c245f21.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "static/icon_256x256.86eb495eaef44ff98959fb3840974bba.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "static/icon_192x192.6c7dac15764608d6603d0a8083ead4ac.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "static/icon_128x128.a8c1e971cd9704674bd5c1cb5f22b5a8.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "static/icon_96x96.9c3cb77a993116492679fa932aa92a2c.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "name": "SHS Games",
+  "short_name": "SHS Games",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "version": "4.6.1",
+  "description": "Unblocked games • part of an inside job.",
+  "developerName": "Josh Merlino",
+  "developerURL": "https://joshmerlino.github.io",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
