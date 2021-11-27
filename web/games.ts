@@ -444,6 +444,13 @@ export default <Game[]>[
 
 	// Flash Games?!?!?!
 	{
+		name: "Binding Of Issac Demo",
+		runner: "RUFFLE",
+		game: "https://github.com/1333481/cpsgamesfiles/raw/main/581168_Isaac_demo_Secure.swf",
+		thumbnail: "https://github.com/1333481/cpsgamesfiles/raw/main/flash_581168_largest_crop.png",
+		width: 800
+	},
+	{
 		name: "4th and Goal 2018",
 		runner: "RUFFLE",
 		game: "https://cdn.jsdelivr.net/gh/JoshMerlino/shsg-pfile/games/4th-and-goal-2018.swf",
