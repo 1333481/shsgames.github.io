@@ -446,7 +446,7 @@ export default <Game[]>[
 	{
 		name: "Binding Of Issac Demo",
 		runner: "RUFFLE",
-		game: "https://github.com/1333481/cpsgamesfiles/raw/main/581168_Isaac_demo_Secure.swf",
+		game: "https://cdn.jsdelivr.net/gh/1333481/cpsgamesfiles/581168_Isaac_demo_Secure.swf",
 		thumbnail: "https://github.com/1333481/cpsgamesfiles/raw/main/flash_581168_largest_crop.png",
 		width: 800
 	},
