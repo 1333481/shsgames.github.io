@@ -448,8 +448,7 @@ export default <Game[]>[
 		runner: "RUFFLE",
 		game: "https://cdn.jsdelivr.net/gh/1333481/cpsgamesfiles/463241_MeatBoyEasier.swf",
 		thumbnail: "https://github.com/1333481/cpsgamesfiles/raw/main/flash_463241_card.png",
-		width: 800,
-		aspectRatio: 195/316
+		width: 390
 	},
 	{
 		name: "Binding Of Issac Demo",
