@@ -443,13 +443,7 @@ export default <Game[]>[
 	},
 
 	// Flash Games?!?!?!
-	{
-		name: "Henry Stickmin - Fleeing The Complex",
-		runner: "RUFFLE",
-		game: "https://cdn.jsdelivr.net/gh/1333481/cpsgamesfiles/665992_complex.swf",
-		thumbnail: "https://cdn.jsdelivr.net/gh/1333481/cpsgamesfiles/flash_665992_largest_crop.png",
-		width: 800
-	},
+	
 	{
 		name: "Meat Boy",
 		runner: "RUFFLE",
